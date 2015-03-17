@@ -1,4 +1,5 @@
-## This function is called with (as its only argument) the matrix to be analyzed and returns a matrix modified to be a list of 4 functions, which are used to: 
+## This function is called with (as its only argument) the matrix to be analyzed and returns a matrix modified 
+## to be a list of 4 functions, which are used to:  
 ## set/get the value of the matrix; 
 ## set/get the cached inverse matrix. 
 
